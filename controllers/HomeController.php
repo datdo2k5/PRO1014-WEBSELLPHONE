@@ -1,9 +1,6 @@
 <?php
-
+// session_start();
 class HomeController
 {
-    public function index()
-    {
-        echo "Website bán điện thoại Faker";
-    }
-}
+
+};
